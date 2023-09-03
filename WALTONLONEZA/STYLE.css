@@ -12,6 +12,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
+    
 }
 
 header {
@@ -36,11 +37,16 @@ footer {
     text-align: center;
     padding:10px;
     margin-top: 100px;
-    
+    font-size: 50px;
+    color: #f5f5f5;
 }
 
 .all{
-    background-color: #3498db;
+    background-image: url(1692886390885.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    background-size: cover;
 }
 
 .link{
